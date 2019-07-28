@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>tow-sum</module>
+        <module>AddTwoNumbers</module>
     </modules>
 
     <properties>
