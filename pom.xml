@@ -11,6 +11,7 @@
     <modules>
         <module>tow-sum</module>
         <module>AddTwoNumbers</module>
+        <module>03-LongestSubstring</module>
     </modules>
 
     <properties>
